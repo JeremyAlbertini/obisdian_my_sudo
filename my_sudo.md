@@ -30,4 +30,4 @@ status: in progress
 
 ## to resolve
 - [ ] if only ```sudo``` error 84 and print usage
-- [ ] remove forbiden functions getpw*, getgr*
+- [x] remove forbiden functions getpw*, getgr* ✅ 2025-01-23

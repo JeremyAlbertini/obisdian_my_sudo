@@ -15,12 +15,11 @@ status: in progress
     - [x] Implement user permission validation ✅ 2025-01-21
     - [ ] Implement group permission validation
 - [ ] User Authentication:
-    - [ ] Implement password reading from stdin
-    - [ ] Create functions to read and parse /etc/shadow file
-    - [ ] Implement password verification using crypt()
-    - [ ] Add the 3-attempt limit for password entry
-    - [ ] Display unsuccessful attempt count
-    - [ ] Ensure secure password handling
+    - [x] Implement password reading from stdin
+    - [x] Create functions to read and parse /etc/shadow file
+    - [x] Implement password verification using crypt()
+    - [x] Add the 3-attempt limit for password entry
+    - [x] Ensure secure password handling
 - [ ] Command Execution:
     - [x] Implement the core command execution functionality ✅ 2025-01-21
     - [ ] Handle the -u flag for executing as different user

@@ -32,3 +32,6 @@ status: in progress
 ## to resolve
 - [ ] if only ```sudo``` error 84 and print usage
 - [ ] remove forbiden functions getpw*, getgr*
+
+
+testttttt

@@ -22,7 +22,7 @@ status: in progress
     - [x] Ensure secure password handling
 - [ ] Command Execution:
     - [x] Implement the core command execution functionality ✅ 2025-01-21
-    - [ ] Handle the -u flag for executing as different user⏫ 
+    - [x] Handle the -u flag for executing as different user ⏫ ✅ 2025-01-24
     - [ ] Handle the -g flag for executing with different group⏫ 
     - [ ] Handle the -s flag for shell execution
     - [ ] Implement environment variable handling (especially for SHELL)🔼 

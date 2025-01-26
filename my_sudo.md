@@ -3,7 +3,7 @@ status: in progress
 ---
 
 ## Tasks
-- [ ] Initial Setup & Core Structure:
+- [x] Initial Setup & Core Structure: ✅ 2025-01-24
     - [x] Create a Makefile with required rules (re, clean, fclean) ✅ 2025-01-21
     - [x] Set up the basic program structure with argument parsing ✅ 2025-01-21
     - [x] Implement the -h help display functionality ✅ 2025-01-21
@@ -14,7 +14,7 @@ status: in progress
     - [x] Handle the "ALL=(ALL) ALL" specification ✅ 2025-01-21
     - [x] Implement user permission validation ✅ 2025-01-21
     - [ ] Implement group permission validation🔼 
-- [ ] User Authentication:
+- [x] User Authentication: ✅ 2025-01-24
     - [x] Implement password reading from stdin
     - [x] Create functions to read and parse /etc/shadow file
     - [x] Implement password verification using crypt()

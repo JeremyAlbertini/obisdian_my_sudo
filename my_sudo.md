@@ -24,7 +24,7 @@ status: in progress
     - [x] Implement the core command execution functionality ✅ 2025-01-21
     - [x] Handle the -u flag for executing as different user ⏫ ✅ 2025-01-24
     - [ ] Handle the -g flag for executing with different group⏫ 
-    - [ ] Handle the -s flag for shell execution
+    - [x] Handle the -s flag for shell execution ✅ 2025-01-27
     - [ ] Implement environment variable handling (especially for SHELL)🔼 
     - [ ] Handle the -E flag for executing with different env vars
 

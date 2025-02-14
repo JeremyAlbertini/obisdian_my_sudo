@@ -1,5 +1,5 @@
 ---
-status: in progress
+status: completed
 ---
 
 ## Tasks
@@ -32,3 +32,7 @@ status: in progress
 - [x] if only ```sudo``` error 84 and print usage ✅ 2025-01-24
 - [x] remove forbiden functions getpw*, getgr* ✅ 2025-01-23
 - [ ] get user env if not -u
+
+
+## Language use
+- [[C]]
